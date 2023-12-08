@@ -31,7 +31,7 @@ github_username:  jekyll
 logo: "./assets/logo.png"
 
 # Build settings
-theme: jekyll-readthedocs
+theme: _themes/jekyll-readthedocs
 plugins:
   - jekyll-feed
 
