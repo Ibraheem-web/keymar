@@ -1,7 +1,7 @@
 <div class="site-sidebar">
     <div style="display: flex; justify-content: space-evenly; align-items: center;">
-        <a class="sidebar-title" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/assets/images/logo.png" alt="logo" width="60px" height="60px"></a>
-        <a class="sidebar-title" href="{{ site.baseurl }}">{{ site.title | escape }}</a>
+        <a class="sidebar-title" href="{{ site.url }}"><img src="../assets/images/logo.png" alt="logo" width="60px" height="60px"></a>
+        <a class="sidebar-title" href="{{ site.url }}">{{ site.title | escape }}</a>
     </div>
 
     {% assign default_paths = site.pages | map: "path" %}
