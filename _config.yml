@@ -57,4 +57,4 @@ plugins:
 collections:
   lessons:
     output: true
-    permalink: /lessons/:title
+    permalink: :title
