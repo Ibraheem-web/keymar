@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Edit index.markdown file to edit home page.
