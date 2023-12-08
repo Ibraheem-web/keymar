@@ -274,6 +274,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
+  jekyll (~> 3.5)
   jekyll-feed (~> 0.12)
   jekyll-readthedocs
   kramdown-parser-gfm
