@@ -1,7 +1,7 @@
 ---
 layout: page
-title: lesson3
-permalink: /lesson3
+title: intro
+permalink: /intro
 ---
 
 ```python
